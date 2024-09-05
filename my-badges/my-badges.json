@@ -1,0 +1,9 @@
+[
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"adding\".",
+    "body": "My favorite commit message words are:\n\n1. adding (used once)\n2. `badges` (used once)\n3. create (used once)\n4. readme.md (used once)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  }
+]
