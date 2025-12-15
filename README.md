@@ -1,8 +1,5 @@
 # 👋 Hi, I’m 0hmBreaker
 
-Senior Backend Engineer (Level 7) specializing in **robust backend systems**, **secure-by-design architectures**, and **high-reliability services**.  
-My work emphasizes correctness, performance, maintainability, and risk-aware engineering.
-
 ## 🧠 Areas of Expertise
 
 - Backend system architecture
@@ -32,16 +29,6 @@ My work emphasizes correctness, performance, maintainability, and risk-aware eng
 - CI/CD pipelines
 - Reverse proxies (Nginx)
 - Observability (logging, metrics, tracing)
-
-## 🔒 Security & Quality Focus
-
-- Secure coding practices
-- Authentication and authorization models
-- Input validation and data integrity
-- Dependency and supply-chain risk awareness
-- Defensive programming
-- Code reviews and static analysis
-- Compliance with security standards and best practices
 
 ## 🌱 Currently Improving
 
