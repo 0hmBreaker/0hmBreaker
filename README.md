@@ -3,8 +3,6 @@
 Senior Backend Engineer (Level 7) specializing in **robust backend systems**, **secure-by-design architectures**, and **high-reliability services**.  
 My work emphasizes correctness, performance, maintainability, and risk-aware engineering.
 
----
-
 ## 🧠 Areas of Expertise
 
 - Backend system architecture
@@ -14,8 +12,6 @@ My work emphasizes correctness, performance, maintainability, and risk-aware eng
 - Data modeling and persistence
 - Performance optimization
 - Reliability and fault tolerance
-
----
 
 ## 🛠️ Technical Stack
 
@@ -37,8 +33,6 @@ My work emphasizes correctness, performance, maintainability, and risk-aware eng
 - Reverse proxies (Nginx)
 - Observability (logging, metrics, tracing)
 
----
-
 ## 🔒 Security & Quality Focus
 
 - Secure coding practices
@@ -49,15 +43,11 @@ My work emphasizes correctness, performance, maintainability, and risk-aware eng
 - Code reviews and static analysis
 - Compliance with security standards and best practices
 
----
-
 ## 🌱 Currently Improving
 
 - Advanced backend scalability patterns
 - Distributed system reliability
 - Formal threat modeling for software design
 - Performance profiling and optimization
-
----
 
 > _Build systems that are correct first, secure by design, and scalable by necessity._
